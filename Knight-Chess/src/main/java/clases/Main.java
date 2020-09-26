@@ -1,5 +1,6 @@
 package clases;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 
 import org.json.simple.JSONObject;
@@ -17,16 +18,22 @@ public class Main
 		Tablero tablero=new Tablero();
 		test.toObjects(s,tablero);
 		
-		int i=0;
-		i=i+1-1;
-				
-		tablero.showTime();
+		
+		
+		//tablero.move();
+		
+		Tablero t2=tablero.copyTablero();
+		FrameIn showTime=new FrameIn(tablero);
+
 		//Object name = (Object) jo.get("my_knights_dict");
 		//Object eo=((HashMap) name).get("200");
 		//System.out.println(name);
 		//System.out.println(eo);
-		
-		
+		//Celda c=tablero.getCelda(0,0);
+		//Knight k=c.getk();
+		//ArrayList nuevo=k.posibleMoves();
+		int i=0;
+		i=i+1-1;
 	}
 	
 }
