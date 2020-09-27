@@ -38,6 +38,7 @@ public class JsonManagement
 		//System.out.println(ids);
 		//System.out.println(enemy_knights);
 		//Para obtener cada uno hacer un Object temp=(objeto).get(id);
+		t.move();
 	}
 	
 	@SuppressWarnings("rawtypes")

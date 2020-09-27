@@ -5,6 +5,8 @@ public class Celda
 	private int x;
 	private int y;
 	private Knight k=null;
+	private boolean enemyRange=false;
+	private boolean allyRange=false;
 	
 	public Celda(int x,int y)
 	{
@@ -36,6 +38,22 @@ public class Celda
 		this.k = k;
 	}
 	
+	public boolean isEnemyRange() {
+		return enemyRange;
+	}
+
+	public void setEnemyRange(boolean enemyRange) {
+		this.enemyRange = enemyRange;
+	}
+
+	public boolean isAllyRange() {
+		return allyRange;
+	}
+
+	public void setAllyRange(boolean allyRange) {
+		this.allyRange = allyRange;
+	}
+
 	public boolean containsKnight()
 	{
 		if (k!=null)
@@ -43,5 +61,24 @@ public class Celda
 			return true;
 		}
 		return false;
+	}
+	
+	public Celda copyCelda()
+	{
+		Celda nuevo=new Celda(getX(),getY());
+		//EN CASO QUE TENGA UN KNIGHT
+		if (getk()!=null)
+		{
+			Knight k=getk();
+			Knight copyK=k.copyKnight();
+			nuevo.setk(copyK);
+		}
+		//EN CASO QUE NO TENGA, K=NULL
+		else
+		{
+			nuevo.setk(null);
+		}
+		
+		return nuevo;
 	}
 }
