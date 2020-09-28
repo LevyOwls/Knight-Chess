@@ -24,7 +24,7 @@
 ####**Aspectos positivos:**
 - responsable,contribuidor
 - positivo
-- responsable, toma la iniciativa, cooperador, él única que avanza un poco con anticipación.
+- responsable, toma la iniciativa, cooperador, él único que avanza un poco con anticipación.
 
 ####**Aspectos a mejorar:**
 - comunicarse de mejor manera con el grupo
