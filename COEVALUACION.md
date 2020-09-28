@@ -2,7 +2,7 @@
 
 |Pablo Hurtado | Martín Toledo | Giselle Vasquez|
 |--|--|--|
-|20%|40%|40%|
+|0%|50%|50%|
 |20%|40%|40%|
 |20%|40%|40%|
 
@@ -20,6 +20,7 @@
 
 
 ###Martin Toledo
+
 ####**Aspectos positivos:**
 - responsable,contribuidor
 - positivo
@@ -32,6 +33,7 @@
 
 
 ###Giselle Vasquez
+
 ####**Aspectos positivos:**
 - Resiliente
 - Responsable, puntual, contribuidor.
