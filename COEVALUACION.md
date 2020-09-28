@@ -7,6 +7,7 @@
 |20%|40%|40%|
 
 ###Pablo Hurtado:
+
 ####**Aspectos positivos:**
 - 
 - Contribuidor.
