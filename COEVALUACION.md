@@ -6,40 +6,40 @@
 |20%|40%|40%|
 |20%|40%|40%|
 
-###Pablo Hurtado:
+### Pablo Hurtado:
 
-####**Aspectos positivos:**
+#### **Aspectos positivos:**
 - 
 - Contribuidor.
 - Honesto
 
-####**Aspectos a mejorar:**
+#### **Aspectos a mejorar:**
 - presencia en el desarrollo del proyecto
 - comunicarse de mejor manera con el grupo
 - responsabilidad.
 
 
-###Martin Toledo
+### Martin Toledo
 
-####**Aspectos positivos:**
+#### **Aspectos positivos:**
 - responsable,contribuidor
 - positivo
-- responsable, toma la iniciativa, cooperador, él único que avanza un poco con anticipación.
+- responsable, toma la iniciativa, cooperador, él única que avanza un poco con anticipación.
 
-####**Aspectos a mejorar:**
+#### **Aspectos a mejorar:**
 - comunicarse de mejor manera con el grupo
 - empezar con tiempo.
 - no dejar las cosas para última hora.
 
 
-###Giselle Vasquez
+### Giselle Vasquez
 
-####**Aspectos positivos:**
+#### **Aspectos positivos:**
 - Resiliente
 - Responsable, puntual, contribuidor.
 - Responsable.
 
-####**Aspectos a mejorar:**
+#### **Aspectos a mejorar:**
 - empezar con tiempo.
 - comunicarse de mejor manera con el grupo.
 - no dejar las cosas para última hora.
